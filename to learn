@@ -1,0 +1,8 @@
+1. Json server
+2. working of operators like && in react
+
+
+purposed edits
+1. should the home.js component have the boh fetches ie for the bloglist and treanding bloglist
+2. form checking for img text fields to recieve only urls or even better to have file uploaded from system
+3.forms in HTML

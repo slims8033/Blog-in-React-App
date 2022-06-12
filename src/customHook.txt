@@ -1,0 +1,4 @@
+1. Building your own Hooks lets you extract component logic into reusable functions.
+2. A custom Hook is a JavaScript function whose name starts with ”use” and that may call other Hooks
+3. same as stateless component function
+4. but will return data in format of variable,array,object etc.
